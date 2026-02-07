@@ -30,32 +30,32 @@ ChartInt includes tasks ranging from basic reconstruction to high-level maintena
 
 * **Static Reconstruction**
   
-      **Native Reconstruction**: Fundamental visual-to-code reproduction.
+    **Native Reconstruction**: Fundamental visual-to-code reproduction.
 
 
-**Style-Perturbed Reconstruction**: Stress-testing robustness with non-default styles (e.g., gradients).
+    **Style-Perturbed Reconstruction**: Stress-testing robustness with non-default styles (e.g., gradients).
 
 
 
 
 * **Interaction**
   
-**Interaction Task**: Generating executable code that supports specific interaction logic (e.g., hover highlighting).
+    **Interaction Task**: Generating executable code that supports specific interaction logic (e.g., hover highlighting).
 
 
 
 
 * **Real-World Editable**
   
-**Soft-coded Data Update**: Refactoring hardcoded data to load from external CSV files.
+    **Soft-coded Data Update**: Refactoring hardcoded data to load from external CSV files.
 
 
 
-**Visual Style Update**: Modifying chart aesthetics (e.g., color, layout) based on instructions without altering data.
+    **Visual Style Update**: Modifying chart aesthetics (e.g., color, layout) based on instructions without altering data.
 
 
 
-**Cross-Chart Style Transfer**: Synthesizing a new chart by combining the data from Chart A with the visual style of Chart B.
+    **Cross-Chart Style Transfer**: Synthesizing a new chart by combining the data from Chart A with the visual style of Chart B.
 
 
 
