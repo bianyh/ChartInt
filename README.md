@@ -30,7 +30,7 @@ ChartInt includes tasks ranging from basic reconstruction to high-level maintena
 
 * **Static Reconstruction**
   
-**Native Reconstruction**: Fundamental visual-to-code reproduction.
+      **Native Reconstruction**: Fundamental visual-to-code reproduction.
 
 
 **Style-Perturbed Reconstruction**: Stress-testing robustness with non-default styles (e.g., gradients).
