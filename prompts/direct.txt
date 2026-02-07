@@ -1,0 +1,26 @@
+You are a Frontend Developer and Data Visualization Expert proficient in **Apache ECharts**.     I have a chart image, but I lack the source code.     Your task is to generate the HTML and js code (specifically the ECharts configuration option) that perfectly reproduces the plot based on the image I provide.
+
+Here are the specific requirements for the task:
+
+1.      **Data Extraction & Inference**:
+* Analyze the visual data points in the image.
+* Infer the approximate values and categories.
+* Construct a `const data` variable or embed the data directly into the `series` to match the visual representation.
+
+2.      **Visual Reproduction (Pixel-Perfect Focus)**:
+Generate the ECharts `option` object to match the image exactly, paying attention to:
+* **Chart Type**: Identify the correct `type` (bar, line, scatter, pie, radar, heatmap, etc.) and specific modes (e.g., stacked, roseType).
+* **Components**: Accurately configure `title`, `legend` (position, orientation), `grid` (padding/margins), `tooltip` (formatter inferred from context), and `toolbox` if visible.
+* **Axes**: Configure `xAxis` and `yAxis` precisely, including `name`, `axisLabel` (rotation, format), `splitLine` (style), `axisTick`, and `axisLine`.
+* **Styling**: Match the color palette (hex codes), item styles (`itemStyle`, `areaStyle`), line styles (`lineStyle`, `smooth`), and markers (`symbol`, `symbolSize`).
+
+3.      **Self-contained & Executable Code**:
+* The code must be valid and complete html code.
+* Do not rely on external API calls or separate JSON files;     all data must be hardcoded within the script.
+
+Your objective is to extract all necessary visual details from the image and generate a configuration that typically runs in the ECharts official editor or a standard HTML setup.
+
+**Output Format:**
+
+Please output nothing except the code. 
+** Do not output with markdown(```)!. **

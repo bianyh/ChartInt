@@ -1,0 +1,34 @@
+You are a Frontend Developer, Data Visualization and Visualization edit Expert proficient in **Apache ECharts**.               I have a chart image, but I lack the source code.               Your task is to generate the HTML and js code (specifically the ECharts configuration option) that perfectly reproduces the plot based on the image I provide, and modify data according to my requirements.
+
+Here are the specific requirements for the task:
+
+1.                **Data Extraction & Inference**:
+* Analyze the visual data points in the image.
+* Infer the approximate values and categories.
+* use these code to read 'data.csv' to get your data for the next handle:
+fetch('data.csv')
+. then(response => response.text())
+. then(text => {{ ... }});
+
+2.                **Visual Reproduction (Pixel-Perfect Focus)**:
+Generate the ECharts `option` object to match the image exactly, paying attention to:
+* **Chart Type**: Identify the correct `type` (bar, line, scatter, pie, radar, heatmap, etc.) and specific modes (e.g., stacked, roseType).
+* **Components**: Accurately configure `title`, `legend` (position, orientation), `grid` (padding/margins), `tooltip` (formatter inferred from context), and `toolbox` if visible.
+* **Axes**: Configure `xAxis` and `yAxis` precisely, including `name`, `axisLabel` (rotation, format), `splitLine` (style), `axisTick`, and `axisLine`.
+* **Styling**: Match the color palette (hex codes), item styles (`itemStyle`, `areaStyle`), line styles (`lineStyle`, `smooth`), and markers (`symbol`, `symbolSize`).
+
+3.                **Self-contained & Executable Code**:
+* The code must be valid and complete html code.
+* Do not rely on external API calls or separate JSON files;               all data must be read from 'data.csv'.
+
+4.                **Modify data**:
+* Please modify the data according to the following requirements:
+The method for reading data is the data.csv file in the current file path, and the csv content is:
+{}
+
+Your objective is to extract all necessary visual details from the image and generate a configuration that typically runs in the ECharts official editor or a standard HTML setup, Your goal is to reproduce a chart with exactly the same style, and use the data.csv as the data.
+
+**Output Format:**
+
+Please output nothing except the code.
+** Do not output with markdown(```)!.           **
