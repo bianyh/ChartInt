@@ -66,8 +66,7 @@ ChartInt includes tasks ranging from basic reconstruction to high-level maintena
 
 We employ a multi-dimensional evaluation framework:
 
-1. 
-**Code Executability**: Verifies if the generated code runs successfully.
+1. **Code Executability**: Verifies if the generated code runs successfully.
 
 
 2. **Fine-grained Visual Metrics**:
@@ -79,8 +78,7 @@ We employ a multi-dimensional evaluation framework:
 
 
 
-3. 
-**MLLM-based Judgment**: Using GPT-4o to score Visual Logic, Data Content, and Style Consistency.
+3. **MLLM-based Judgment**: Using GPT-4o to score Visual Logic, Data Content, and Style Consistency.
 
 
 
