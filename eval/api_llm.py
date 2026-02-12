@@ -22,8 +22,8 @@ class LLMClient:
     
     def __init__(
         self,
-        api_key: str = "sk-VwXfmWXpNw6YCJRZEf97F7Ac81F24457801aA9462d8b7979",
-        base_url: Optional[str] = "https://api.chatweb.plus/v1/",
+        api_key: str = "",
+        base_url: Optional[str] = "",
         model: str = "gpt-3.5-turbo",
         max_retries: int = 3,
         timeout: int = 60,
