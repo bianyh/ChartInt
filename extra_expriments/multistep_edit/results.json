@@ -1,0 +1,7457 @@
+{
+  "results": [
+    {
+      "chart_id": 0,
+      "hard_collapse_step": null,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Revenue",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Target",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Revenue",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Target",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Revenue",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Target",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Revenue",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Target",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": null,
+              "bottom_set": false,
+              "right_set": true,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Revenue",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Target",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Revenue",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Target",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chart_id": 1,
+      "hard_collapse_step": null,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "North",
+                  3,
+                  10
+                ],
+                [
+                  "South",
+                  3,
+                  10
+                ]
+              ]
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "North",
+                  3,
+                  10
+                ],
+                [
+                  "South",
+                  3,
+                  10
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "North",
+                  3,
+                  10
+                ],
+                [
+                  "South",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "North",
+                  3,
+                  10
+                ],
+                [
+                  "South",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": null,
+              "bottom_set": false,
+              "right_set": true,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "North",
+                  3,
+                  10
+                ],
+                [
+                  "South",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "North",
+                  3,
+                  10
+                ],
+                [
+                  "South",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chart_id": 2,
+      "hard_collapse_step": null,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.5,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.6667,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.75,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8333,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8571,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.875,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "bottom",
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": null,
+              "bottom_set": false,
+              "right_set": true,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chart_id": 3,
+      "hard_collapse_step": null,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": null,
+              "bottom_set": false,
+              "right_set": true,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chart_id": 4,
+      "hard_collapse_step": 10,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "page_errors": [
+            "echarts is not defined"
+          ],
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ]
+        }
+      ]
+    },
+    {
+      "chart_id": 5,
+      "hard_collapse_step": 3,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "page_errors": [
+            "echarts is not defined"
+          ],
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ]
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ]
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ]
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ]
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ]
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ]
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ]
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ]
+        }
+      ]
+    },
+    {
+      "chart_id": 6,
+      "hard_collapse_step": 5,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "page_errors": [
+            "echarts is not defined"
+          ],
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ]
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ]
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ]
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ]
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ]
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": true,
+          "render_ok": false,
+          "field_fidelity": 0.0,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ]
+        }
+      ]
+    },
+    {
+      "chart_id": 7,
+      "hard_collapse_step": null,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": null,
+              "bottom_set": false,
+              "right_set": true,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Orders",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": [
+                [
+                  "Conversion",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chart_id": 8,
+      "hard_collapse_step": null,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": null,
+              "bottom_set": false,
+              "right_set": true,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ],
+              [
+                "bar",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [
+                [
+                  "Desktop",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Mobile",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ],
+                [
+                  "Tablet",
+                  [
+                    6,
+                    6,
+                    0,
+                    0
+                  ],
+                  22
+                ]
+              ],
+              "line": []
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chart_id": 9,
+      "hard_collapse_step": null,
+      "steps": [
+        {
+          "step": 1,
+          "instruction": "Add a centered chart title with the exact text 'Quarterly Review Dashboard'. Keep all data values, series names, and chart types unchanged.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard"
+          }
+        },
+        {
+          "step": 2,
+          "instruction": "Move the legend to the bottom center and keep it horizontal. Preserve every earlier edit.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            }
+          }
+        },
+        {
+          "step": 3,
+          "instruction": "Change the chart background color to '#f7f7fb'. Preserve all earlier edits and all data.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb"
+          }
+        },
+        {
+          "step": 4,
+          "instruction": "Turn on value labels for every series. Put labels on top for bar series and above points for line series. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ]
+          }
+        },
+        {
+          "step": 5,
+          "instruction": "Replace the chart palette with ['#2456A6', '#2F8F6B', '#D9822B'] in this order. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "instruction": "Enable dashed light-gray horizontal split lines on the y-axis using color '#d0d7e2'. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ]
+          }
+        },
+        {
+          "step": 7,
+          "instruction": "Increase the plot padding so the grid becomes left=70, right=50, top=80, bottom=70. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ]
+          }
+        },
+        {
+          "step": 8,
+          "instruction": "Make the series styles more prominent. For every bar series, set rounded top corners [6,6,0,0]. For every line series, set line width to 3 and symbol size to 10. Preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            }
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "step": 9,
+          "instruction": "Move the title to left=30 and top=10, and recolor the title text to '#16324f'. Keep the same title text and preserve everything else.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 1.0,
+          "exact_match": true,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": true,
+              "right_set": false,
+              "top": null,
+              "orient": "horizontal"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        },
+        {
+          "step": 10,
+          "instruction": "Move the legend to the right side with right=12, top='middle', orient='vertical'. Preserve every earlier edit unless this instruction overrides it.",
+          "hard_collapse": false,
+          "render_ok": true,
+          "field_fidelity": 0.8889,
+          "exact_match": false,
+          "active_fields": [
+            "title_text",
+            "legend_pos",
+            "background",
+            "labels_signature",
+            "palette",
+            "splitline",
+            "grid",
+            "series_style",
+            "title_layout"
+          ],
+          "reference_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": null,
+              "bottom_set": false,
+              "right_set": true,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          },
+          "generated_signature": {
+            "title_text": "Quarterly Review Dashboard",
+            "legend_pos": {
+              "left": "center",
+              "bottom_set": false,
+              "right_set": false,
+              "top": "middle",
+              "orient": "vertical"
+            },
+            "background": "#f7f7fb",
+            "labels_signature": [
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ],
+              [
+                "line",
+                true,
+                "top"
+              ]
+            ],
+            "palette": [
+              "#2456A6",
+              "#2F8F6B",
+              "#D9822B"
+            ],
+            "splitline": [
+              true,
+              "dashed",
+              "#d0d7e2"
+            ],
+            "grid": [
+              70,
+              50,
+              80,
+              70
+            ],
+            "series_style": {
+              "bar": [],
+              "line": [
+                [
+                  "Visits",
+                  3,
+                  10
+                ],
+                [
+                  "Qualified",
+                  3,
+                  10
+                ],
+                [
+                  "Won",
+                  3,
+                  10
+                ]
+              ]
+            },
+            "title_layout": [
+              30,
+              10,
+              "#16324f"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "per_step": {
+      "1": {
+        "render_survival": 1.0,
+        "exact_match_rate": 1.0,
+        "average_field_fidelity": 1.0,
+        "workflow_survival": 1.0
+      },
+      "3": {
+        "render_survival": 0.9,
+        "exact_match_rate": 0.8,
+        "average_field_fidelity": 0.8667,
+        "workflow_survival": 0.8
+      },
+      "5": {
+        "render_survival": 0.8,
+        "exact_match_rate": 0.7,
+        "average_field_fidelity": 0.78,
+        "workflow_survival": 0.7
+      },
+      "8": {
+        "render_survival": 0.8,
+        "exact_match_rate": 0.7,
+        "average_field_fidelity": 0.7875,
+        "workflow_survival": 0.7
+      },
+      "10": {
+        "render_survival": 0.7,
+        "exact_match_rate": 0.0,
+        "average_field_fidelity": 0.6222,
+        "workflow_survival": 0.0
+      }
+    },
+    "collapse_distribution": {
+      "no_hard_crash": 7,
+      "10": 1,
+      "3": 1,
+      "5": 1
+    },
+    "drift_distribution": {
+      "10": 7,
+      "2": 1,
+      "3": 1,
+      "5": 1
+    }
+  }
+}

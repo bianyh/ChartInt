@@ -1,0 +1,4256 @@
+{
+  "selection": {
+    "early_fail_count": 25,
+    "early_pass_count": 25
+  },
+  "selected_samples": [
+    {
+      "sample_id": "10133",
+      "data_len": 5,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "sample_id": "10183",
+      "data_len": 5,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "sample_id": "10306",
+      "data_len": 6,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sample_id": "10391",
+      "data_len": 32,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        16,
+        30,
+        31
+      ]
+    },
+    {
+      "sample_id": "10412",
+      "data_len": 12,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "sample_id": "10417",
+      "data_len": 10,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "sample_id": "10425",
+      "data_len": 12,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "sample_id": "10616",
+      "data_len": 31,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        15,
+        29,
+        30
+      ]
+    },
+    {
+      "sample_id": "10632",
+      "data_len": 12,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "sample_id": "10701",
+      "data_len": 12,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "sample_id": "10789",
+      "data_len": 10,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "sample_id": "10941",
+      "data_len": 33,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        16,
+        31,
+        32
+      ]
+    },
+    {
+      "sample_id": "10945",
+      "data_len": 16,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        8,
+        14,
+        15
+      ]
+    },
+    {
+      "sample_id": "11406",
+      "data_len": 11,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        5,
+        9,
+        10
+      ]
+    },
+    {
+      "sample_id": "11469",
+      "data_len": 6,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sample_id": "11484",
+      "data_len": 20,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        10,
+        18,
+        19
+      ]
+    },
+    {
+      "sample_id": "11535",
+      "data_len": 22,
+      "usable_series_index": 2,
+      "states": [
+        0,
+        1,
+        11,
+        20,
+        21
+      ]
+    },
+    {
+      "sample_id": "11653",
+      "data_len": 15,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        7,
+        13,
+        14
+      ]
+    },
+    {
+      "sample_id": "11817",
+      "data_len": 7,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "sample_id": "11846",
+      "data_len": 27,
+      "usable_series_index": 2,
+      "states": [
+        0,
+        1,
+        13,
+        25,
+        26
+      ]
+    },
+    {
+      "sample_id": "11873",
+      "data_len": 5,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "sample_id": "11882",
+      "data_len": 6,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sample_id": "11906",
+      "data_len": 20,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        10,
+        18,
+        19
+      ]
+    },
+    {
+      "sample_id": "11961",
+      "data_len": 7,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "sample_id": "11964",
+      "data_len": 34,
+      "usable_series_index": 1,
+      "states": [
+        0,
+        1,
+        17,
+        32,
+        33
+      ]
+    },
+    {
+      "sample_id": "10228",
+      "data_len": 16,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        8,
+        14,
+        15
+      ]
+    },
+    {
+      "sample_id": "10504",
+      "data_len": 7,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "sample_id": "10891",
+      "data_len": 10,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "sample_id": "11193",
+      "data_len": 16,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        8,
+        14,
+        15
+      ]
+    },
+    {
+      "sample_id": "1228",
+      "data_len": 6,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sample_id": "12668",
+      "data_len": 6,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sample_id": "13109",
+      "data_len": 7,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "sample_id": "13174",
+      "data_len": 12,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "sample_id": "14023",
+      "data_len": 7,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "sample_id": "1408",
+      "data_len": 20,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        10,
+        18,
+        19
+      ]
+    },
+    {
+      "sample_id": "1429",
+      "data_len": 12,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "sample_id": "14368",
+      "data_len": 5,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "sample_id": "14402",
+      "data_len": 14,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        7,
+        12,
+        13
+      ]
+    },
+    {
+      "sample_id": "14617",
+      "data_len": 30,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        15,
+        28,
+        29
+      ]
+    },
+    {
+      "sample_id": "14681",
+      "data_len": 6,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sample_id": "15542",
+      "data_len": 20,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        10,
+        18,
+        19
+      ]
+    },
+    {
+      "sample_id": "15580",
+      "data_len": 7,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "sample_id": "16387",
+      "data_len": 20,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        10,
+        18,
+        19
+      ]
+    },
+    {
+      "sample_id": "16548",
+      "data_len": 8,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "sample_id": "16775",
+      "data_len": 12,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "sample_id": "17212",
+      "data_len": 7,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "sample_id": "17576",
+      "data_len": 5,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "sample_id": "17911",
+      "data_len": 10,
+      "usable_series_index": 3,
+      "states": [
+        0,
+        1,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "sample_id": "1941",
+      "data_len": 20,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        10,
+        18,
+        19
+      ]
+    },
+    {
+      "sample_id": "2315",
+      "data_len": 9,
+      "usable_series_index": 0,
+      "states": [
+        0,
+        1,
+        4,
+        7,
+        8
+      ]
+    }
+  ],
+  "results": [
+    {
+      "sample_id": "10133",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "Chars Bosh\npoints\n17.2\nrebounds\n7.9\nassists\n1.6\nsteals\n0.8\nblocks\n0.8",
+          "generated_tooltip": "series0\npoints : 25\nblocks : 10\nsteals : 68\nassists : 50\nrebounds : 28",
+          "tooltip_similarity": 0.3309,
+          "image_ssim": 0.7786
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "Shane Battier\npoints\n5.4\nrebounds\n2.6\nassists\n1.2\nsteals\n1\nblocks\n0.5",
+          "generated_tooltip": "series0\npoints : 10\nblocks : 20\nsteals : 40\nassists : 15\nrebounds : 22",
+          "tooltip_similarity": 0.3597,
+          "image_ssim": 0.7701
+        },
+        {
+          "data_index": 2,
+          "reference_tooltip": "LeBron James\npoints\n28\nrebounds\n8.4\nassists\n6.1\nsteals\n1.9\nblocks\n0.8",
+          "generated_tooltip": "series0\npoints : 93\nblocks : 40\nsteals : 95\nassists : 88\nrebounds : 85",
+          "tooltip_similarity": 0.3453,
+          "image_ssim": 0.7716
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "Dwayne Wade\npoints\n22.3\nrebounds\n5\nassists\n4.5\nsteals\n1.7\nblocks\n1.3",
+          "generated_tooltip": "series0\npoints : 74\nblocks : 66\nsteals : 85\nassists : 62\nrebounds : 50",
+          "tooltip_similarity": 0.3188,
+          "image_ssim": 0.774
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "Mario Chalmers\npoints\n10.2\nrebounds\n2.9\nassists\n3.6\nsteals\n1.4\nblocks\n0.2",
+          "generated_tooltip": "series0\npoints : 50\nblocks : 40\nsteals : 30\nassists : 20\nrebounds : 80",
+          "tooltip_similarity": 0.3636,
+          "image_ssim": 0.7701
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "10183",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "00:00\n1,234",
+          "generated_tooltip": "00:00\n Value: 1,220",
+          "tooltip_similarity": 0.6207,
+          "image_ssim": 0.7919
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "06:00\n1,234",
+          "generated_tooltip": "06:00\n Value: 1,220",
+          "tooltip_similarity": 0.6207,
+          "image_ssim": 0.7921
+        },
+        {
+          "data_index": 2,
+          "reference_tooltip": "12:00\n1,234",
+          "generated_tooltip": "12:00\n Value: 1,220",
+          "tooltip_similarity": 0.6207,
+          "image_ssim": 0.7919
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "18:00\n1,234",
+          "generated_tooltip": "18:00\n Value: 1,220",
+          "tooltip_similarity": 0.6207,
+          "image_ssim": 0.7921
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "24:00\n1,234",
+          "generated_tooltip": "24:00\n Value: 1,220",
+          "tooltip_similarity": 0.6207,
+          "image_ssim": 0.7922
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "10306",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "测试1\n办结率 ：30%",
+          "generated_tooltip": "测试1\n30",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.8423
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "测试2\n办结率 ：80%",
+          "generated_tooltip": "测试2\n80",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.8427
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "测试4\n办结率 ：90%",
+          "generated_tooltip": "测试4\n90",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.8433
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "测试5\n办结率 ：60%",
+          "generated_tooltip": "测试5\n60",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.8424
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "测试6\n办结率 ：70%",
+          "generated_tooltip": "测试6\n70",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.8433
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "10391",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "粮食加工品\n违规数\n106",
+          "generated_tooltip": "食品添加剂\n违规数：197",
+          "tooltip_similarity": 0.5385,
+          "image_ssim": 0.7617
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "食用油、油脂及其制品\n违规数\n109",
+          "generated_tooltip": "其他食品\n违规数：195",
+          "tooltip_similarity": 0.5333,
+          "image_ssim": 0.7649
+        },
+        {
+          "data_index": 16,
+          "reference_tooltip": "水果制品\n违规数\n150",
+          "generated_tooltip": "蔬菜制品\n违规数：135",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.7663
+        },
+        {
+          "data_index": 30,
+          "reference_tooltip": "其他食品\n违规数\n195",
+          "generated_tooltip": "食用油、油脂及其制品\n违规数：109",
+          "tooltip_similarity": 0.5333,
+          "image_ssim": 0.7737
+        },
+        {
+          "data_index": 31,
+          "reference_tooltip": "食品添加剂\n违规数\n197",
+          "generated_tooltip": "粮食加工品\n违规数：106",
+          "tooltip_similarity": 0.5385,
+          "image_ssim": 0.7773
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 32,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 32,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "10412",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "1月\n审批申请数\n756\n审批申请同比率\n4.5",
+          "generated_tooltip": "1月\n审批申请数：750\n审批申请同比率：4.5 %",
+          "tooltip_similarity": 0.84,
+          "image_ssim": 0.6248
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2月\n审批申请数\n627\n审批申请同比率\n4",
+          "generated_tooltip": "2月\n审批申请数：630\n审批申请同比率：4 %",
+          "tooltip_similarity": 0.7826,
+          "image_ssim": 0.6357
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "7月\n审批申请数\n717\n审批申请同比率\n4",
+          "generated_tooltip": "7月\n审批申请数：710\n审批申请同比率：4 %",
+          "tooltip_similarity": 0.8261,
+          "image_ssim": 0.6241
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "11月\n审批申请数\n555\n审批申请同比率\n3",
+          "generated_tooltip": "11月\n审批申请数：560\n审批申请同比率：3 %",
+          "tooltip_similarity": 0.7917,
+          "image_ssim": 0.6142
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "12月\n审批申请数\n741\n审批申请同比率\n4.5",
+          "generated_tooltip": "12月\n审批申请数：740\n审批申请同比率：4.5 %",
+          "tooltip_similarity": 0.8462,
+          "image_ssim": 0.6211
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "10417",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "OCR : 1.37 (1.37%)",
+          "generated_tooltip": "推荐\n31.62%",
+          "tooltip_similarity": 0.2963,
+          "image_ssim": 0.7752
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "图谱 : 2.41 (2.41%)",
+          "generated_tooltip": "NLP-SaaS\n15.46%",
+          "tooltip_similarity": 0.25,
+          "image_ssim": 0.777
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "RPA : 8.25 (8.25%)",
+          "generated_tooltip": "IDPS\n6.87%",
+          "tooltip_similarity": 0.2857,
+          "image_ssim": 0.7832
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "NLP-SaaS : 15.46 (15.46%)",
+          "generated_tooltip": "图谱\n2.41%",
+          "tooltip_similarity": 0.303,
+          "image_ssim": 0.7822
+        },
+        {
+          "data_index": 9,
+          "reference_tooltip": "推荐 : 31.62 (31.62%)",
+          "generated_tooltip": "OCR\n1.37%",
+          "tooltip_similarity": 0.3571,
+          "image_ssim": 0.7829
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 10,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 10,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "10425",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "1月\n蒸发量\n2\n降水量\n2.6\n平均温度\n2",
+          "generated_tooltip": "1月\n蒸发量 : 2 ml\n降水量 : 3 ml\n平均温度 : 1.9 °C",
+          "tooltip_similarity": 0.623,
+          "image_ssim": 0.6827
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2月\n蒸发量\n4.9\n降水量\n5.9\n平均温度\n2.2",
+          "generated_tooltip": "2月\n蒸发量 : 5 ml\n降水量 : 6 ml\n平均温度 : 2.1 °C",
+          "tooltip_similarity": 0.6154,
+          "image_ssim": 0.6646
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "7月\n蒸发量\n135.6\n降水量\n175.6\n平均温度\n20.3",
+          "generated_tooltip": "7月\n蒸发量 : 135 ml\n降水量 : 175 ml\n平均温度 : 20.3 °C",
+          "tooltip_similarity": 0.7467,
+          "image_ssim": 0.659
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "11月\n蒸发量\n6.4\n降水量\n6\n平均温度\n12",
+          "generated_tooltip": "11月\n蒸发量 : 6 ml\n降水量 : 5 ml\n平均温度 : 12 °C",
+          "tooltip_similarity": 0.6984,
+          "image_ssim": 0.6553
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "12月\n蒸发量\n3.3\n降水量\n2.3\n平均温度\n6.2",
+          "generated_tooltip": "12月\n蒸发量 : 3 ml\n降水量 : 2 ml\n平均温度 : 6.2 °C",
+          "tooltip_similarity": 0.7164,
+          "image_ssim": 0.6544
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "10616",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2020-05-27\n主机油耗\n30.37\n总油耗\n33.32\n转速\n42.32",
+          "generated_tooltip": "2020-05-27\n主机油耗：30.5 t\n总油耗：33.2 t\n转速：42.4 rpm",
+          "tooltip_similarity": 0.7529,
+          "image_ssim": 0.3798
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2020-05-28\n主机油耗\n46.78\n总油耗\n51.77\n转速\n43.88",
+          "generated_tooltip": "2020-05-28\n主机油耗：46.7 t\n总油耗：51.5 t\n转速：43.9 rpm",
+          "tooltip_similarity": 0.7529,
+          "image_ssim": 0.3766
+        },
+        {
+          "data_index": 15,
+          "reference_tooltip": "2020-06-11\n主机油耗\n52.03\n总油耗\n56.97\n转速\n43.96",
+          "generated_tooltip": "2020-06-11\n主机油耗：51.9 t\n总油耗：56.8 t\n转速：44.1 rpm",
+          "tooltip_similarity": 0.6353,
+          "image_ssim": 0.3774
+        },
+        {
+          "data_index": 29,
+          "reference_tooltip": "2020-06-25\n主机油耗\n46.8\n总油耗\n51.66\n转速\n44.1",
+          "generated_tooltip": "2020-06-25\n主机油耗：46.8 t\n总油耗：49.2 t\n转速：44.1 rpm",
+          "tooltip_similarity": 0.747,
+          "image_ssim": 0.3702
+        },
+        {
+          "data_index": 30,
+          "reference_tooltip": "2020-06-26\n主机油耗\n15.45\n总油耗\n17.08\n转速\n44.1",
+          "generated_tooltip": "2020-06-26\n主机油耗：15.4 t\n总油耗：17 t\n转速：44.1 rpm",
+          "tooltip_similarity": 0.7805,
+          "image_ssim": 0.37
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 31,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 31,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "10632",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "日期:1\n平均值\n34\n最小值\n134\n最大值\n234",
+          "generated_tooltip": "日期:1\n总值: 234\n底部: 134\n折线: 34",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.5138
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "日期:2\n平均值\n35\n最小值\n135\n最大值\n235",
+          "generated_tooltip": "日期:2\n总值: 235\n底部: 135\n折线: 35",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.5082
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "日期:7\n平均值\n24\n最小值\n124\n最大值\n224",
+          "generated_tooltip": "日期:7\n总值: 224\n底部: 124\n折线: 24",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.5062
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "日期:9\n平均值\n23\n最小值\n123\n最大值\n223",
+          "generated_tooltip": "日期:9\n总值: 223\n底部: 123\n折线: 23",
+          "tooltip_similarity": 0.6667,
+          "image_ssim": 0.4873
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "日期:10\n平均值\n24\n最小值\n124\n最大值\n224",
+          "generated_tooltip": "日期:10\n总值: 224\n底部: 124\n折线: 24",
+          "tooltip_similarity": 0.6786,
+          "image_ssim": 0.4843
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "10701",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "120",
+          "generated_tooltip": "一月\n 数值: 120",
+          "tooltip_similarity": 0.4615,
+          "image_ssim": 0.902
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "350",
+          "generated_tooltip": "二月\n 数值: 350",
+          "tooltip_similarity": 0.4615,
+          "image_ssim": 0.9015
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "350",
+          "generated_tooltip": "七月\n 数值: 350",
+          "tooltip_similarity": 0.4615,
+          "image_ssim": 0.903
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "220",
+          "generated_tooltip": "十一月\n 数值: 220",
+          "tooltip_similarity": 0.4286,
+          "image_ssim": 0.9019
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "120",
+          "generated_tooltip": "十二月\n 数值: 120",
+          "tooltip_similarity": 0.4286,
+          "image_ssim": 0.901
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "10789",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "",
+          "generated_tooltip": "喀什市\n值：87",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8348
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "",
+          "generated_tooltip": "疏附县\n值：80",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8346
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "",
+          "generated_tooltip": "岳普湖县\n值：55",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8339
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "",
+          "generated_tooltip": "叶城县\n值：34",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8386
+        },
+        {
+          "data_index": 9,
+          "reference_tooltip": "",
+          "generated_tooltip": "莎车县\n值：33",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8406
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 10,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 10,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "10941",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2\n17-C\n29.84\n17-B2-2\n18.79\n17-B2-3\n17.84\n17-B1\n19.44\n17-A-5\n13.79\n17-A-6\n11.26",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8671
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "3\n17-C\n24.58\n17-B2-2\n18.79\n17-B2-3\n17.84\n17-B1\n11.82\n17-A-5\n7.15\n17-A-6\n7.11",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8724
+        },
+        {
+          "data_index": 16,
+          "reference_tooltip": "18\n17-C\n26.68\n17-B2-2\n20.71\n17-B2-3\n19.75\n17-B1\n13.73\n17-A-5\n8.81\n17-A-6\n8.77",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8651
+        },
+        {
+          "data_index": 31,
+          "reference_tooltip": "33\n17-C\n23.63\n17-B2-2\n17.93\n17-B2-3\n16.98\n17-B1\n10.97\n17-A-5\n6.41\n17-A-6\n6.37",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8657
+        },
+        {
+          "data_index": 32,
+          "reference_tooltip": "34\n17-C\n22.37\n17-B2-2\n16.78\n17-B2-3\n15.83\n17-B1\n10.49\n17-A-5\n5.41\n17-A-6\n5.37",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8638
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 33,
+        "usableSeriesIndex": 0,
+        "seriesCount": 12
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 33,
+        "usableSeriesIndex": 0,
+        "seriesCount": 12
+      }
+    },
+    {
+      "sample_id": "10945",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "华为: 1.00 (0.5 %)",
+          "generated_tooltip": "华为\n1 (0.50%)",
+          "tooltip_similarity": 0.7857,
+          "image_ssim": 0.7796
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "小米: 1.00 (0.5 %)",
+          "generated_tooltip": "小米\n1 (0.50%)",
+          "tooltip_similarity": 0.7857,
+          "image_ssim": 0.7825
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "OPPO7: 3.00 (1.49 %)",
+          "generated_tooltip": "OPPO7\n3 (1.49%)",
+          "tooltip_similarity": 0.8571,
+          "image_ssim": 0.7801
+        },
+        {
+          "data_index": 14,
+          "reference_tooltip": "OPPO13: 34.00 (16.91 %)",
+          "generated_tooltip": "OPPO13\n34 (16.92%)",
+          "tooltip_similarity": 0.8293,
+          "image_ssim": 0.7784
+        },
+        {
+          "data_index": 15,
+          "reference_tooltip": "OPPO14: 98.00 (48.76 %)",
+          "generated_tooltip": "OPPO14\n98 (48.76%)",
+          "tooltip_similarity": 0.878,
+          "image_ssim": 0.7744
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 16,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 16,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "11406",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "Group I: (10,8.04)",
+          "generated_tooltip": "x: 0\ny: 3",
+          "tooltip_similarity": 0.2222,
+          "image_ssim": 0.9399
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "Group I: (8,6.95)",
+          "generated_tooltip": "x: 20\ny: 13",
+          "tooltip_similarity": 0.1429,
+          "image_ssim": 0.9401
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "Group I: (14,9.96)",
+          "generated_tooltip": "x: 9\ny: 8.8",
+          "tooltip_similarity": 0.2759,
+          "image_ssim": 0.9356
+        },
+        {
+          "data_index": 9,
+          "reference_tooltip": "Group I: (7,4.82)",
+          "generated_tooltip": "x: 13\ny: 7.5",
+          "tooltip_similarity": 0.2759,
+          "image_ssim": 0.9351
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "Group I: (5,5.68)",
+          "generated_tooltip": "x: 14\ny: 9.9",
+          "tooltip_similarity": 0.2069,
+          "image_ssim": 0.9352
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 11,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 11,
+        "usableSeriesIndex": 1,
+        "seriesCount": 8
+      }
+    },
+    {
+      "sample_id": "11469",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "健康指标得分：\n数据一：20分\n数据二：30分\n数据三：22分\n数据四：50分\n数据五：12分",
+          "generated_tooltip": "数据一：40\n数据五：20\n数据四：35\n数据三：100\n数据二：20",
+          "tooltip_similarity": 0.2927,
+          "image_ssim": 0.8417
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "健康指标得分：\n数据一：50分\n数据二：分\n数据三：分\n数据四：分\n数据五：分",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8443
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "健康指标得分：\n数据一：分\n数据二：分\n数据三：50分\n数据四：分\n数据五：分",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8452
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "健康指标得分：\n数据一：分\n数据二：分\n数据三：分\n数据四：50分\n数据五：分",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8461
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "健康指标得分：\n数据一：分\n数据二：分\n数据三：分\n数据四：分\n数据五：50分",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.8515
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 1,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "11484",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2026-4-8\nline\n273.0636718822675\nbar\n122.71434316697196\nline\n273.0636718822675\ndotted\n273.0636718822675",
+          "generated_tooltip": "2025-12-28\n line: 292\n bar: 192",
+          "tooltip_similarity": 0.3206,
+          "image_ssim": 0.5409
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2026-4-9\nline\n155.09105349230822\nbar\n125.75151897874777\nline\n155.09105349230822\ndotted\n155.09105349230822",
+          "generated_tooltip": "2025-12-29\n line: 255\n bar: 112",
+          "tooltip_similarity": 0.3134,
+          "image_ssim": 0.4942
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "2026-4-18\nline\n249.8144135783372\nbar\n109.37952724470338\nline\n249.8144135783372\ndotted\n249.8144135783372",
+          "generated_tooltip": "2026-1-7\n line: 210\n bar: 142",
+          "tooltip_similarity": 0.3231,
+          "image_ssim": 0.4865
+        },
+        {
+          "data_index": 18,
+          "reference_tooltip": "2026-4-26\nline\n228.07430716504967\nbar\n189.34644310212445\nline\n228.07430716504967\ndotted\n228.07430716504967",
+          "generated_tooltip": "2026-1-15\n line: 205\n bar: 137",
+          "tooltip_similarity": 0.2537,
+          "image_ssim": 0.4734
+        },
+        {
+          "data_index": 19,
+          "reference_tooltip": "2026-4-27\nline\n320.09771932739216\nbar\n173.57282916906874\nline\n320.09771932739216\ndotted\n320.09771932739216",
+          "generated_tooltip": "2026-1-16\n line: 103\n bar: 88",
+          "tooltip_similarity": 0.3008,
+          "image_ssim": 0.4668
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "11535",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "",
+          "generated_tooltip": "DO Eva Zhou\nTTM Sales: 3.1 m\nTTM 现金流: 2.2 m",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.7464
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "",
+          "generated_tooltip": "DO Eva Zhou\nTTM Sales: 3.1 m\nTTM 现金流: 2.2 m",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.7426
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "选择架构:  DO Eva Zhou\n餐厅编号:  1420097\nTIM Sales: 11.5\n现金流+租金:  3.2",
+          "generated_tooltip": "DO Eva Zhou\nTTM Sales: 3.1 m\nTTM 现金流: 2.2 m",
+          "tooltip_similarity": 0.6078,
+          "image_ssim": 0.7286
+        },
+        {
+          "data_index": 20,
+          "reference_tooltip": "选择架构:  DO Eva Zhou\n餐厅编号:  1420097\nTIM Sales: 7.08\n现金流+租金:  2.82",
+          "generated_tooltip": "DO Eva Zhou\nTTM Sales: 3.1 m\nTTM 现金流: 2.2 m",
+          "tooltip_similarity": 0.6214,
+          "image_ssim": 0.7335
+        },
+        {
+          "data_index": 21,
+          "reference_tooltip": "选择架构:  DO Eva Zhou\n餐厅编号:  1420097\nTIM Sales: 5.02\n现金流+租金:  1.68",
+          "generated_tooltip": "DO Eva Zhou\nTTM Sales: 3.1 m\nTTM 现金流: 2.2 m",
+          "tooltip_similarity": 0.5825,
+          "image_ssim": 0.7305
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 22,
+        "usableSeriesIndex": 2,
+        "seriesCount": 4
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 3,
+        "seriesCount": 4
+      }
+    },
+    {
+      "sample_id": "11653",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "1\n早餐\n7.8\n午餐\n11.8\n晚餐\n17.8",
+          "generated_tooltip": "时间: 1\n早餐: 7.8小时\n午餐: 11.8小时\n晚餐: 17.8小时",
+          "tooltip_similarity": 0.7869,
+          "image_ssim": 0.6885
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "3\n早餐\n8.1\n午餐\n12.1\n晚餐\n18.1",
+          "generated_tooltip": "时间: 3\n早餐: 8.1小时\n午餐: 12.1小时\n晚餐: 18.1小时",
+          "tooltip_similarity": 0.7869,
+          "image_ssim": 0.6878
+        },
+        {
+          "data_index": 7,
+          "reference_tooltip": "15\n早餐\n8.4\n午餐\n12.4\n晚餐\n18.4",
+          "generated_tooltip": "时间: 15\n早餐: 8.4小时\n午餐: 12.4小时\n晚餐: 18.4小时",
+          "tooltip_similarity": 0.7937,
+          "image_ssim": 0.6859
+        },
+        {
+          "data_index": 13,
+          "reference_tooltip": "27\n早餐\n8.9\n午餐\n12.9\n晚餐\n18.9",
+          "generated_tooltip": "时间: 27\n早餐: 8.9小时\n午餐: 12.9小时\n晚餐: 18.9小时",
+          "tooltip_similarity": 0.7937,
+          "image_ssim": 0.6861
+        },
+        {
+          "data_index": 14,
+          "reference_tooltip": "29\n早餐\n9\n午餐\n13\n晚餐\n19",
+          "generated_tooltip": "时间: 29\n早餐: 9小时\n午餐: 13小时\n晚餐: 19小时",
+          "tooltip_similarity": 0.7451,
+          "image_ssim": 0.6877
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 15,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 15,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "11817",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "省份二:120",
+          "generated_tooltip": "首购\n201801\n省份一：320\n省份二：120\n省份三：210\n省份四：150\n总计：800",
+          "tooltip_similarity": 0.2182,
+          "image_ssim": 0.5914
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "省份一:332",
+          "generated_tooltip": "复购\n201801\n省份一：620\n省份二：120\n省份三：60\n省份四：60\n总计：860",
+          "tooltip_similarity": 0.1509,
+          "image_ssim": 0.6342
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "省份一:334",
+          "generated_tooltip": "复购\n201801\n省份一：730\n省份二：140\n省份三：70\n省份四：80\n总计：1020",
+          "tooltip_similarity": 0.1852,
+          "image_ssim": 0.6339
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "省份一:330",
+          "generated_tooltip": "复购\n201801\n省份一：700\n省份二：100\n省份三：70\n省份四：90\n总计：960",
+          "tooltip_similarity": 0.1509,
+          "image_ssim": 0.6355
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "省份二:210",
+          "generated_tooltip": "首购\n201801\n省份一：330\n省份二：140\n省份三：220\n省份四：160\n总计：850",
+          "tooltip_similarity": 0.2182,
+          "image_ssim": 0.6348
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 8
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 14,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      }
+    },
+    {
+      "sample_id": "11846",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "1976\n女性比例: 49.08%\n男性比例: 50.93%\n男性出生数: 10435196 人",
+          "generated_tooltip": "1976\n男性出生数: 10,300,000 人\n女性出生数: 9,950,000 人\n男性比例: 50.9%\n女性比例: 49.1%",
+          "tooltip_similarity": 0.487,
+          "image_ssim": 0.5986
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "1977\n女性比例: 49.14%\n男性比例: 50.86%\n男性出生数: 9119685 人",
+          "generated_tooltip": "1976\n男性出生数: 10,300,000 人\n女性出生数: 9,950,000 人\n男性比例: 50.9%\n女性比例: 49.1%",
+          "tooltip_similarity": 0.2632,
+          "image_ssim": 0.6017
+        },
+        {
+          "data_index": 13,
+          "reference_tooltip": "1989\n女性比例: 47.84%\n男性比例: 52.150000000000006%\n男性出生数: 13110848 人",
+          "generated_tooltip": "1976\n男性出生数: 10,300,000 人\n女性出生数: 9,950,000 人\n男性比例: 50.9%\n女性比例: 49.1%",
+          "tooltip_similarity": 0.2656,
+          "image_ssim": 0.6185
+        },
+        {
+          "data_index": 25,
+          "reference_tooltip": "",
+          "generated_tooltip": "1976\n男性出生数: 10,300,000 人\n女性出生数: 9,950,000 人\n男性比例: 50.9%\n女性比例: 49.1%",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.6159
+        },
+        {
+          "data_index": 26,
+          "reference_tooltip": "",
+          "generated_tooltip": "1976\n男性出生数: 10,300,000 人\n女性出生数: 9,950,000 人\n男性比例: 50.9%\n女性比例: 49.1%",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.6165
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 27,
+        "usableSeriesIndex": 2,
+        "seriesCount": 5
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 25,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      }
+    },
+    {
+      "sample_id": "11873",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "h-index:10-19 : 30460 (6.11%)",
+          "generated_tooltip": "h-index:10-19\n6.11%",
+          "tooltip_similarity": 0.7917,
+          "image_ssim": 0.888
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "h-index:20-49 : 103411 (20.76%)",
+          "generated_tooltip": "h-index:20-49\n20.76%",
+          "tooltip_similarity": 0.7843,
+          "image_ssim": 0.8888
+        },
+        {
+          "data_index": 2,
+          "reference_tooltip": "h-index:50-99 : 134082 (26.91%)",
+          "generated_tooltip": "h-index:50-99\n26.91%",
+          "tooltip_similarity": 0.7843,
+          "image_ssim": 0.8847
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "h-index:100-199 : 125699 (25.23%)",
+          "generated_tooltip": "h-index:100-199\n25.23%",
+          "tooltip_similarity": 0.8,
+          "image_ssim": 0.8829
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "h-index:>=200 : 104595 (20.99%)",
+          "generated_tooltip": "h-index:>=200\n20.99%",
+          "tooltip_similarity": 0.7843,
+          "image_ssim": 0.889
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "11882",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2012年\n外事访问次数 : -h\n外事访问天数 : -个\n考察调研次数 : 2h\n考察调研天数 : 7个",
+          "generated_tooltip": "2012年\n外事访问次数\n0\n外事访问天数\n0\n考察调研次数\n2\n考察调研天数\n7",
+          "tooltip_similarity": 0.8298,
+          "image_ssim": 0.6063
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2013年\n外事访问次数 : 14h\n外事访问天数 : 33个\n考察调研次数 : 9h\n考察调研天数 : 29个",
+          "generated_tooltip": "2012年\n外事访问次数\n0\n外事访问天数\n0\n考察调研次数\n2\n考察调研天数\n7",
+          "tooltip_similarity": 0.7423,
+          "image_ssim": 0.5865
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "2015年\n外事访问次数 : 17h\n外事访问天数 : 42个\n考察调研次数 : 6h\n考察调研天数 : 17个",
+          "generated_tooltip": "2012年\n外事访问次数\n0\n外事访问天数\n0\n考察调研次数\n2\n考察调研天数\n7",
+          "tooltip_similarity": 0.7629,
+          "image_ssim": 0.5844
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "2016年\n外事访问次数 : 14h\n外事访问天数 : 30个\n考察调研次数 : 7h\n考察调研天数 : 20个",
+          "generated_tooltip": "2012年\n外事访问次数\n0\n外事访问天数\n0\n考察调研次数\n2\n考察调研天数\n7",
+          "tooltip_similarity": 0.7629,
+          "image_ssim": 0.5863
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "2017年\n外事访问次数 : 11h\n外事访问天数 : 24个\n考察调研次数 : 6h\n考察调研天数 : 11个",
+          "generated_tooltip": "2012年\n外事访问次数\n0\n外事访问天数\n0\n考察调研次数\n2\n考察调研天数\n7",
+          "tooltip_similarity": 0.7423,
+          "image_ssim": 0.5791
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      }
+    },
+    {
+      "sample_id": "11906",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2016Q2\nGDP总值: 1742.0\nGDP增长率: -7.5%",
+          "generated_tooltip": "2011Q1\nGDP总值：1458.4\nGDP增长率：17.4%",
+          "tooltip_similarity": 0.697,
+          "image_ssim": 0.6725
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2016Q1\nGDP总值: 1434.7\nGDP增长率: -1.7%",
+          "generated_tooltip": "2011Q2\nGDP总值：1593.8\nGDP增长率：16.0%",
+          "tooltip_similarity": 0.697,
+          "image_ssim": 0.6605
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "2013Q4\nGDP总值: 1935.5\nGDP增长率: 7.5%",
+          "generated_tooltip": "2013Q3\nGDP总值：1689.6\nGDP增长率：6.8%",
+          "tooltip_similarity": 0.7188,
+          "image_ssim": 0.662
+        },
+        {
+          "data_index": 18,
+          "reference_tooltip": "2011Q4\nGDP总值: 1593.8\nGDP增长率: 16.0%",
+          "generated_tooltip": "2015Q3\nGDP总值：1434.7\nGDP增长率：-1.7%",
+          "tooltip_similarity": 0.697,
+          "image_ssim": 0.6575
+        },
+        {
+          "data_index": 19,
+          "reference_tooltip": "2011Q3\nGDP总值: 1458.4\nGDP增长率: 17.4%",
+          "generated_tooltip": "2015Q4\nGDP总值：1742.0\nGDP增长率：-7.5%",
+          "tooltip_similarity": 0.697,
+          "image_ssim": 0.6597
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 22,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "11961",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "B\tC\n品类1\t320\t620\n品类2\t120\t120\n品类3\t50\t60\n品类4\t92\t62",
+          "generated_tooltip": "周一\n左组\n 品类1: 320\n 品类2: 120\n 品类3: 40\n 品类4: 110\n\n右组\n 品类1: 620\n 品类2: 120\n 品类3: 60\n 品类4: 60",
+          "tooltip_similarity": 0.5484,
+          "image_ssim": 0.7993
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "B\tC\n品类1\t332\t732\n品类2\t132\t132\n品类3\t70\t72\n品类4\t32\t82",
+          "generated_tooltip": "周二\n左组\n 品类1: 330\n 品类2: 130\n 品类3: 35\n 品类4: 75\n\n右组\n 品类1: 730\n 品类2: 130\n 品类3: 70\n 品类4: 90",
+          "tooltip_similarity": 0.439,
+          "image_ssim": 0.928
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "B\tC\n品类1\t334\t734\n品类2\t134\t134\n品类3\t124\t74\n品类4\t114\t84",
+          "generated_tooltip": "周四\n左组\n 品类1: 330\n 品类2: 140\n 品类3: 120\n 品类4: 120\n\n右组\n 品类1: 730\n 品类2: 130\n 品类3: 75\n 品类4: 85",
+          "tooltip_similarity": 0.5039,
+          "image_ssim": 0.9284
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "B\tC\n品类1\t330\t1130\n品类2\t230\t230\n品类3\t30\t130\n品类4\t10\t110",
+          "generated_tooltip": "周六\n左组\n 品类1: 325\n 品类2: 230\n 品类3: 35\n 品类4: 10\n\n右组\n 品类1: 1130\n 品类2: 230\n 品类3: 210\n 品类4: 110",
+          "tooltip_similarity": 0.5736,
+          "image_ssim": 0.9278
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "B\tC\n品类1\t320\t1120\n品类2\t210\t220\n品类3\t10\t110\n品类4\t20\t120",
+          "generated_tooltip": "周日\n左组\n 品类1: 315\n 品类2: 220\n 品类3: 15\n 品类4: 15\n\n右组\n 品类1: 1120\n 品类2: 220\n 品类3: 115\n 品类4: 120",
+          "tooltip_similarity": 0.5736,
+          "image_ssim": 0.9266
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 8
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 8
+      }
+    },
+    {
+      "sample_id": "11964",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "半径模式\n2014年 1篇\n1",
+          "generated_tooltip": "2014年 5月\n篇数: 1篇",
+          "tooltip_similarity": 0.5333,
+          "image_ssim": 0.7157
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "半径模式\n2015年 92篇\n92",
+          "generated_tooltip": "2014年 6月\n篇数: 2篇",
+          "tooltip_similarity": 0.4375,
+          "image_ssim": 0.7161
+        },
+        {
+          "data_index": 17,
+          "reference_tooltip": "微博转发数随时间变化情况\n2016-05\n67",
+          "generated_tooltip": "2016年 7月\n篇数: 156篇",
+          "tooltip_similarity": 0.3,
+          "image_ssim": 0.7056
+        },
+        {
+          "data_index": 32,
+          "reference_tooltip": "微博转发数随时间变化情况\n2017-08\n88",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.717
+        },
+        {
+          "data_index": 33,
+          "reference_tooltip": "微博转发数随时间变化情况\n2017-09\n7",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.7159
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 34,
+        "usableSeriesIndex": 1,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 32,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "10228",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "08:00\n2018-08-01 : 15%\n2018-08-02 : 12.2%\n2018-08-03 : 12.1%",
+          "generated_tooltip": "08:00\n 2018-08-01: 15%\n 2018-08-02: 12%\n 2018-08-03: 12.2%",
+          "tooltip_similarity": 0.9391,
+          "image_ssim": 0.8462
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "09:00\n2018-08-01 : 2.32%\n2018-08-02 : 18.2%\n2018-08-03 : 2.52%",
+          "generated_tooltip": "08:00\n 2018-08-01: 15%\n 2018-08-02: 12%\n 2018-08-03: 12.2%",
+          "tooltip_similarity": 0.8718,
+          "image_ssim": 0.8397
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "16:00\n2018-08-01 : 19.1%\n2018-08-02 : 31.91%\n2018-08-03 : 18.1%",
+          "generated_tooltip": "08:00\n 2018-08-01: 15%\n 2018-08-02: 12%\n 2018-08-03: 12.2%",
+          "tooltip_similarity": 0.8305,
+          "image_ssim": 0.8849
+        },
+        {
+          "data_index": 14,
+          "reference_tooltip": "22:00\n2018-08-01 : 33.37%\n2018-08-02 : 21.03%\n2018-08-03 : 3.37%",
+          "generated_tooltip": "08:00\n 2018-08-01: 15%\n 2018-08-02: 12%\n 2018-08-03: 12.2%",
+          "tooltip_similarity": 0.7899,
+          "image_ssim": 0.8873
+        },
+        {
+          "data_index": 15,
+          "reference_tooltip": "23:00\n2018-08-01 : 1.2%\n2018-08-02 : 1.82%\n2018-08-03 : 3.2%",
+          "generated_tooltip": "08:00\n 2018-08-01: 15%\n 2018-08-02: 12%\n 2018-08-03: 12.2%",
+          "tooltip_similarity": 0.8696,
+          "image_ssim": 0.8853
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 16,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 16,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "10504",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2016.01\nPlant-Complete\n100\nPlant-Chromosome\n120\nPlant-Scaffold\n220\nPlant-Contig\n150\nAnimal-Complete\n320\nAnimal-Chromosome\n120\nAnimal-Scaffold\n220\nAnimal-Contig\n150",
+          "generated_tooltip": "2016.01\nPlant-Complete\n100\nPlant-Chromosome\n120\nPlant-Scaffold\n220\nPlant-Contig\n150\nAnimal-Complete\n320\nAnimal-Chromosome\n120\nAnimal-Scaffold\n220\nAnimal-Contig\n150",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.6748
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2016.04\nPlant-Complete\n200\nPlant-Chromosome\n132\nPlant-Scaffold\n182\nPlant-Contig\n212\nAnimal-Complete\n302\nAnimal-Chromosome\n132\nAnimal-Scaffold\n182\nAnimal-Contig\n212",
+          "generated_tooltip": "2016.04\nPlant-Complete\n200\nPlant-Chromosome\n132\nPlant-Scaffold\n182\nPlant-Contig\n212\nAnimal-Complete\n302\nAnimal-Chromosome\n132\nAnimal-Scaffold\n182\nAnimal-Contig\n212",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7346
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "2016.10\nPlant-Complete\n334\nPlant-Chromosome\n134\nPlant-Scaffold\n234\nPlant-Contig\n154\nAnimal-Complete\n334\nAnimal-Chromosome\n134\nAnimal-Scaffold\n234\nAnimal-Contig\n154",
+          "generated_tooltip": "2016.10\nPlant-Complete\n334\nPlant-Chromosome\n134\nPlant-Scaffold\n234\nPlant-Contig\n154\nAnimal-Complete\n334\nAnimal-Chromosome\n134\nAnimal-Scaffold\n234\nAnimal-Contig\n154",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7366
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "2017.07\nPlant-Complete\n330\nPlant-Chromosome\n230\nPlant-Scaffold\n330\nPlant-Contig\n330\nAnimal-Complete\n330\nAnimal-Chromosome\n230\nAnimal-Scaffold\n330\nAnimal-Contig\n330",
+          "generated_tooltip": "2017.07\nPlant-Complete\n330\nPlant-Chromosome\n230\nPlant-Scaffold\n330\nPlant-Contig\n330\nAnimal-Complete\n330\nAnimal-Chromosome\n230\nAnimal-Scaffold\n330\nAnimal-Contig\n330",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7393
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "Now\nPlant-Complete\n320\nPlant-Chromosome\n210\nPlant-Scaffold\n310\nPlant-Contig\n410\nAnimal-Complete\n320\nAnimal-Chromosome\n210\nAnimal-Scaffold\n310\nAnimal-Contig\n410",
+          "generated_tooltip": "Now\nPlant-Complete\n320\nPlant-Chromosome\n210\nPlant-Scaffold\n310\nPlant-Contig\n410\nAnimal-Complete\n320\nAnimal-Chromosome\n210\nAnimal-Scaffold\n310\nAnimal-Contig\n410",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7354
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 8
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 8
+      }
+    },
+    {
+      "sample_id": "10891",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "1\n2019年\n11\n2018年\n44",
+          "generated_tooltip": "1\n2019年：11\n2018年：44",
+          "tooltip_similarity": 0.8947,
+          "image_ssim": 0.8558
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2\n2019年\n22\n2018年\n13",
+          "generated_tooltip": "2\n2019年：22\n2018年：13",
+          "tooltip_similarity": 0.8947,
+          "image_ssim": 0.8925
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "6\n2019年\n43\n2018年\n12",
+          "generated_tooltip": "6\n2019年：43\n2018年：12",
+          "tooltip_similarity": 0.8947,
+          "image_ssim": 0.8878
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "9\n2019年\n133\n2018年\n24",
+          "generated_tooltip": "9\n2019年：133\n2018年：24",
+          "tooltip_similarity": 0.9,
+          "image_ssim": 0.8809
+        },
+        {
+          "data_index": 9,
+          "reference_tooltip": "10\n2019年\n55\n2018年\n166",
+          "generated_tooltip": "10\n2019年：55\n2018年：166",
+          "tooltip_similarity": 0.9048,
+          "image_ssim": 0.8904
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 10,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 10,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "11193",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "08:00\n2018-08-01 : 220.23元\n2018-08-02 : 15元\n2018-08-03 : 49元",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.0
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "09:00\n2018-08-01 : 1823.32元\n2018-08-02 : 1232.12元\n2018-08-03 : 2232.12元",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.0
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "16:00\n2018-08-01 : 1191.99元\n2018-08-02 : 491.43元\n2018-08-03 : 1491.35元",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.0
+        },
+        {
+          "data_index": 14,
+          "reference_tooltip": "22:00\n2018-08-01 : 210.32元\n2018-08-02 : 330元\n2018-08-03 : 130.55元",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.0
+        },
+        {
+          "data_index": 15,
+          "reference_tooltip": "23:00\n2018-08-01 : 182.12元\n2018-08-02 : 32元\n2018-08-03 : 10元",
+          "generated_tooltip": "",
+          "tooltip_similarity": 0.0,
+          "image_ssim": 0.0
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 16,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": false,
+        "divIds": [
+          "chart"
+        ]
+      }
+    },
+    {
+      "sample_id": "1228",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "电\n32",
+          "generated_tooltip": "电\n32",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8602
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "光线收发器\n22",
+          "generated_tooltip": "光纤收发器\n22",
+          "tooltip_similarity": 0.875,
+          "image_ssim": 0.8698
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "保洁用品\n16",
+          "generated_tooltip": "保洁用品\n16",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8632
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "硬盘录像机\n8",
+          "generated_tooltip": "硬盘录像机\n8",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8638
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "其他类型\n15",
+          "generated_tooltip": "其他类型\n15",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8624
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "12668",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "优\nSO2\n20\nNO2\n12\nPM10\n10\nCO\n9\nO3\n5\nPM2.5\n15\n污染日数\n16",
+          "generated_tooltip": "优\nSO2: 20\nNO2: 12\nPM10: 10\nCO: 9\nO3: 5\nPM2.5: 15\n污染日数: 15",
+          "tooltip_similarity": 0.9159,
+          "image_ssim": 0.6012
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "良\nSO2\n12\nNO2\n2\nPM10\n16\nCO\n15\nO3\n10\nPM2.5\n6\n污染日数\n12",
+          "generated_tooltip": "良\nSO2: 12\nNO2: 2\nPM10: 16\nCO: 15\nO3: 10\nPM2.5: 6\n污染日数: 11.5",
+          "tooltip_similarity": 0.8991,
+          "image_ssim": 0.5536
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "中度污染\nSO2\n24\nNO2\n6\nPM10\n17\nCO\n5\nO3\n2\nPM2.5\n10\n污染日数\n24",
+          "generated_tooltip": "中度污染\nSO2: 24\nNO2: 6\nPM10: 17\nCO: 5\nO3: 2\nPM2.5: 10\n污染日数: 24",
+          "tooltip_similarity": 0.9369,
+          "image_ssim": 0.5158
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "重度污染\nSO2\n20\nNO2\n8\nPM10\n10\nCO\n3\nO3\n5\nPM2.5\n14\n污染日数\n20",
+          "generated_tooltip": "重度污染\nSO2: 20\nNO2: 8\nPM10: 10\nCO: 3\nO3: 5\nPM2.5: 14\n污染日数: 20",
+          "tooltip_similarity": 0.9369,
+          "image_ssim": 0.5347
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "严重污染\nSO2\n8\nNO2\n4\nPM10\n6\nCO\n1\nO3\n10\nPM2.5\n13\n污染日数\n35",
+          "generated_tooltip": "严重污染\nSO2: 8\nNO2: 4\nPM10: 6\nCO: 1\nO3: 10\nPM2.5: 13\n污染日数: 34.5",
+          "tooltip_similarity": 0.9189,
+          "image_ssim": 0.5412
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 7
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 7
+      }
+    },
+    {
+      "sample_id": "13109",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "Mon\nDirect\n320\nMail Ad\n120\nAffiliate Ad\n220\nVideo Ad\n150\nSearch Engine\n820",
+          "generated_tooltip": "Mon\nDirect: 320\nMail Ad: 120\nAffiliate Ad: 220\nVideo Ad: 150\nSearch Engine: 820\nTotal: 1630",
+          "tooltip_similarity": 0.897,
+          "image_ssim": 0.8052
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "Tue\nDirect\n302\nMail Ad\n132\nAffiliate Ad\n182\nVideo Ad\n212\nSearch Engine\n832",
+          "generated_tooltip": "Tue\nDirect: 302\nMail Ad: 132\nAffiliate Ad: 182\nVideo Ad: 212\nSearch Engine: 832\nTotal: 1660",
+          "tooltip_similarity": 0.897,
+          "image_ssim": 0.8977
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "Thu\nDirect\n334\nMail Ad\n134\nAffiliate Ad\n234\nVideo Ad\n154\nSearch Engine\n934",
+          "generated_tooltip": "Thu\nDirect: 334\nMail Ad: 134\nAffiliate Ad: 234\nVideo Ad: 154\nSearch Engine: 934\nTotal: 1790",
+          "tooltip_similarity": 0.897,
+          "image_ssim": 0.9293
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "Sat\nDirect\n330\nMail Ad\n230\nAffiliate Ad\n330\nVideo Ad\n330\nSearch Engine\n1,330",
+          "generated_tooltip": "Sat\nDirect: 330\nMail Ad: 230\nAffiliate Ad: 330\nVideo Ad: 330\nSearch Engine: 1330\nTotal: 2550",
+          "tooltip_similarity": 0.8929,
+          "image_ssim": 0.9272
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "Sun\nDirect\n320\nMail Ad\n210\nAffiliate Ad\n310\nVideo Ad\n410\nSearch Engine\n1,320",
+          "generated_tooltip": "Sun\nDirect: 320\nMail Ad: 210\nAffiliate Ad: 310\nVideo Ad: 410\nSearch Engine: 1320\nTotal: 2570",
+          "tooltip_similarity": 0.8929,
+          "image_ssim": 0.9273
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 5
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 5
+      }
+    },
+    {
+      "sample_id": "13174",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "1月\n违法违规企业数\n756\n违法违规企业环比率\n5",
+          "generated_tooltip": "1月\n 违法违规企业数：755\n 违法违规企业环比率：5%",
+          "tooltip_similarity": 0.8679,
+          "image_ssim": 0.8827
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2月\n违法违规企业数\n627\n违法违规企业环比率\n3",
+          "generated_tooltip": "2月\n 违法违规企业数：625\n 违法违规企业环比率：3%",
+          "tooltip_similarity": 0.8679,
+          "image_ssim": 0.8818
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "7月\n违法违规企业数\n717\n违法违规企业环比率\n9",
+          "generated_tooltip": "7月\n 违法违规企业数：715\n 违法违规企业环比率：9%",
+          "tooltip_similarity": 0.8679,
+          "image_ssim": 0.8809
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "11月\n违法违规企业数\n855\n违法违规企业环比率\n2",
+          "generated_tooltip": "11月\n 违法违规企业数：855\n 违法违规企业环比率：2%",
+          "tooltip_similarity": 0.9091,
+          "image_ssim": 0.8798
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "12月\n违法违规企业数\n741\n违法违规企业环比率\n1",
+          "generated_tooltip": "12月\n 违法违规企业数：742\n 违法违规企业环比率：1%",
+          "tooltip_similarity": 0.8727,
+          "image_ssim": 0.8815
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "14023",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "周一\n邮件营销\n120\n联盟广告\n220\n视频广告\n150\n直接访问\n320\n搜索引擎\n820",
+          "generated_tooltip": "周一\n邮件营销\n120\n联盟广告\n220\n视频广告\n150\n直接访问\n820\n搜索引擎\n320",
+          "tooltip_similarity": 0.9574,
+          "image_ssim": 0.6671
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "周二\n邮件营销\n132\n联盟广告\n182\n视频广告\n232\n直接访问\n332\n搜索引擎\n932",
+          "generated_tooltip": "周二\n邮件营销\n132\n联盟广告\n182\n视频广告\n232\n直接访问\n932\n搜索引擎\n332",
+          "tooltip_similarity": 0.9574,
+          "image_ssim": 0.6632
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "周四\n邮件营销\n134\n联盟广告\n234\n视频广告\n154\n直接访问\n334\n搜索引擎\n934",
+          "generated_tooltip": "周四\n邮件营销\n134\n联盟广告\n234\n视频广告\n154\n直接访问\n934\n搜索引擎\n334",
+          "tooltip_similarity": 0.9574,
+          "image_ssim": 0.6627
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "周六\n邮件营销\n230\n联盟广告\n330\n视频广告\n330\n直接访问\n330\n搜索引擎\n1,330",
+          "generated_tooltip": "周六\n邮件营销\n230\n联盟广告\n330\n视频广告\n330\n直接访问\n1,330\n搜索引擎\n530",
+          "tooltip_similarity": 0.9388,
+          "image_ssim": 0.6605
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "周日\n邮件营销\n210\n联盟广告\n310\n视频广告\n410\n直接访问\n320\n搜索引擎\n1,320",
+          "generated_tooltip": "周日\n邮件营销\n210\n联盟广告\n310\n视频广告\n410\n直接访问\n1,320\n搜索引擎\n520",
+          "tooltip_similarity": 0.9388,
+          "image_ssim": 0.6619
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 5
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 5
+      }
+    },
+    {
+      "sample_id": "1408",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2019-01\n销售额\n451\n税收收入\n360",
+          "generated_tooltip": "2019-01\n销售额：450\n税收收入：360",
+          "tooltip_similarity": 0.875,
+          "image_ssim": 0.662
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2019-02\n销售额\n352\n税收收入\n545",
+          "generated_tooltip": "2019-02\n销售额：350\n税收收入：545",
+          "tooltip_similarity": 0.875,
+          "image_ssim": 0.6476
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.6609
+        },
+        {
+          "data_index": 18,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.6729
+        },
+        {
+          "data_index": 19,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.6729
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 9,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "1429",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "一月\n时间 : 1h\n人均个数 : 22个\n总体个数 : 201个",
+          "generated_tooltip": "一月\n时间: 1 h\n人均个数: 22\n总体个数: 201",
+          "tooltip_similarity": 0.9032,
+          "image_ssim": 0.5961
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "二月\n时间 : 13h\n人均个数 : 22个\n总体个数 : 222个",
+          "generated_tooltip": "二月\n时间: 13 h\n人均个数: 22\n总体个数: 222",
+          "tooltip_similarity": 0.9062,
+          "image_ssim": 0.5497
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "七月\n时间 : 25h\n人均个数 : 55个\n总体个数 : 555个",
+          "generated_tooltip": "七月\n时间: 25 h\n人均个数: 55\n总体个数: 555",
+          "tooltip_similarity": 0.9062,
+          "image_ssim": 0.5518
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "十一月\n时间 : 32h\n人均个数 : 106个\n总体个数 : 1806个",
+          "generated_tooltip": "十一月\n时间: 32 h\n人均个数: 106\n总体个数: 1806",
+          "tooltip_similarity": 0.9143,
+          "image_ssim": 0.558
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "十二月\n时间 : 2h\n人均个数 : 224个\n总体个数 : 2324个",
+          "generated_tooltip": "十二月\n时间: 2 h\n人均个数: 221\n总体个数: 2324",
+          "tooltip_similarity": 0.8824,
+          "image_ssim": 0.5529
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "14368",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "扬州炒饭\n运送费\n2.5\n餐盒费\n2\n食品费\n15\n在店消费\n18",
+          "generated_tooltip": "扬州炒饭\n运送费\n2.5\n餐盒费\n2\n食品费\n15\n在店消费\n18",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.6489
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "龙门花甲\n运送费\n2\n餐盒费\n3\n食品费\n25\n在店消费\n25",
+          "generated_tooltip": "龙门花甲\n运送费\n2\n餐盒费\n3\n食品费\n25\n在店消费\n25",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7981
+        },
+        {
+          "data_index": 2,
+          "reference_tooltip": "黄焖鸡米饭\n运送费\n1.5\n餐盒费\n2\n食品费\n18\n在店消费\n18",
+          "generated_tooltip": "黄焖鸡米饭\n运送费\n1.5\n餐盒费\n2\n食品费\n18\n在店消费\n18",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7991
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "麻辣烫\n运送费\n2.5\n餐盒费\n2\n食品费\n20\n在店消费\n22",
+          "generated_tooltip": "麻辣烫\n运送费\n2.5\n餐盒费\n2\n食品费\n20\n在店消费\n22",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7977
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "回锅肉盖浇饭\n运送费\n4\n餐盒费\n2.5\n食品费\n20\n在店消费\n22",
+          "generated_tooltip": "回锅肉盖浇饭\n运送费\n4\n餐盒费\n2.5\n食品费\n20\n在店消费\n22",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8037
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      }
+    },
+    {
+      "sample_id": "14402",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "US\nAdmission\n53.94\nGraduation\n32.76\nemployment\n60.7",
+          "generated_tooltip": "US\n Admission: 54%\n Graduation: 32%\n employment: 60%",
+          "tooltip_similarity": 0.86,
+          "image_ssim": 0.6213
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "China\nAdmission\n69.1\nGraduation\n60.29\nemployment\n87.3",
+          "generated_tooltip": "China\n Admission: 69%\n Graduation: 60%\n employment: 87%",
+          "tooltip_similarity": 0.8762,
+          "image_ssim": 0.583
+        },
+        {
+          "data_index": 7,
+          "reference_tooltip": "Germany\nAdmission\n21.48\nGraduation\n13.14\nemployment\n61.2",
+          "generated_tooltip": "Germany\n Admission: 21%\n Graduation: 13%\n employment: 61%",
+          "tooltip_similarity": 0.8727,
+          "image_ssim": 0.5925
+        },
+        {
+          "data_index": 12,
+          "reference_tooltip": "Sudan\nAdmission\n13.4\nGraduation\n8.87\nemployment\n66.2",
+          "generated_tooltip": "Sudan\n Admission: 13%\n Graduation: 9%\n employment: 66%",
+          "tooltip_similarity": 0.8544,
+          "image_ssim": 0.586
+        },
+        {
+          "data_index": 13,
+          "reference_tooltip": "Mongolia\nAdmission\n20.6\nGraduation\n18.06\nemployment\n87.7",
+          "generated_tooltip": "Mongolia\n Admission: 20%\n Graduation: 18%\n employment: 87%",
+          "tooltip_similarity": 0.8829,
+          "image_ssim": 0.5907
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 14,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 14,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "14617",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2021/7/1\n停泊\n11\n机动航行\n11\n定速航行\n13",
+          "generated_tooltip": "2021/7/1\n停泊: 11\n机动航行: 11\n定速航行: 13\n总计: 35",
+          "tooltip_similarity": 0.8571,
+          "image_ssim": 0.673
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2021/7/2\n停泊\n13\n机动航行\n14\n定速航行\n11",
+          "generated_tooltip": "2021/7/2\n停泊: 13\n机动航行: 14\n定速航行: 11\n总计: 38",
+          "tooltip_similarity": 0.8571,
+          "image_ssim": 0.9397
+        },
+        {
+          "data_index": 15,
+          "reference_tooltip": "2021/7/16\n停泊\n12\n机动航行\n11\n定速航行\n13",
+          "generated_tooltip": "2021/7/16\n停泊: 12\n机动航行: 11\n定速航行: 13\n总计: 36",
+          "tooltip_similarity": 0.8611,
+          "image_ssim": 0.9377
+        },
+        {
+          "data_index": 28,
+          "reference_tooltip": "2021/7/29\n停泊\n12\n机动航行\n11\n定速航行\n11",
+          "generated_tooltip": "2021/7/29\n停泊: 12\n机动航行: 11\n定速航行: 11\n总计: 34",
+          "tooltip_similarity": 0.8611,
+          "image_ssim": 0.9386
+        },
+        {
+          "data_index": 29,
+          "reference_tooltip": "2021/7/30\n停泊\n10\n机动航行\n15\n定速航行\n13",
+          "generated_tooltip": "2021/7/30\n停泊: 10\n机动航行: 15\n定速航行: 13\n总计: 38",
+          "tooltip_similarity": 0.8611,
+          "image_ssim": 0.9374
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 30,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 30,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "14681",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "二九零\n存粮量\n1\n仓储量\n10",
+          "generated_tooltip": "二九零\n存粮量：1\n仓储量：10",
+          "tooltip_similarity": 0.875,
+          "image_ssim": 0.8382
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "江滨\n存粮量\n6\n仓储量\n20",
+          "generated_tooltip": "江滨\n存粮量：6\n仓储量：20",
+          "tooltip_similarity": 0.8667,
+          "image_ssim": 0.913
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "新华\n存粮量\n9\n仓储量\n60",
+          "generated_tooltip": "新华\n存粮量：9\n仓储量：60",
+          "tooltip_similarity": 0.8667,
+          "image_ssim": 0.9059
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "友谊\n存粮量\n10\n仓储量\n50",
+          "generated_tooltip": "友谊\n存粮量：10\n仓储量：50",
+          "tooltip_similarity": 0.875,
+          "image_ssim": 0.9079
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "八五三\n存粮量\n11\n仓储量\n60",
+          "generated_tooltip": "八五三\n存粮量：11\n仓储量：60",
+          "tooltip_similarity": 0.8824,
+          "image_ssim": 0.9005
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 6,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "15542",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "00:00\nElectricity\n300",
+          "generated_tooltip": "00:00\n Electricity : 300 W",
+          "tooltip_similarity": 0.913,
+          "image_ssim": 0.7966
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "01:15\nElectricity\n280",
+          "generated_tooltip": "01:15\n Electricity : 280 W",
+          "tooltip_similarity": 0.913,
+          "image_ssim": 0.7919
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "12:30\nElectricity\n380",
+          "generated_tooltip": "12:30\n Electricity : 380 W",
+          "tooltip_similarity": 0.913,
+          "image_ssim": 0.798
+        },
+        {
+          "data_index": 18,
+          "reference_tooltip": "22:30\nElectricity\n600",
+          "generated_tooltip": "22:30\n Electricity : 600 W",
+          "tooltip_similarity": 0.913,
+          "image_ssim": 0.7971
+        },
+        {
+          "data_index": 19,
+          "reference_tooltip": "23:45\nElectricity\n400",
+          "generated_tooltip": "23:45\n Electricity : 400 W",
+          "tooltip_similarity": 0.913,
+          "image_ssim": 0.8003
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "15580",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "03.21\n今天\n15.2\n近7天\n13.3\n近30天\n14.2",
+          "generated_tooltip": "03.21\n今天\n15.2\n近7天\n13.2\n近30天\n14.2",
+          "tooltip_similarity": 0.9688,
+          "image_ssim": 0.9163
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "03.22\n今天\n18.4\n近7天\n16.2\n近30天\n11",
+          "generated_tooltip": "03.22\n今天\n18.4\n近7天\n16.2\n近30天\n10.9",
+          "tooltip_similarity": 0.9355,
+          "image_ssim": 0.9463
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "03.24\n今天\n20.6\n近7天\n15\n近30天\n12.1",
+          "generated_tooltip": "03.24\n今天\n20.6\n近7天\n15\n近30天\n12",
+          "tooltip_similarity": 0.9655,
+          "image_ssim": 0.943
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "03.26\n今天\n16.8\n近7天\n14.6\n近30天\n18.5",
+          "generated_tooltip": "03.26\n今天\n16.8\n近7天\n14.5\n近30天\n18.5",
+          "tooltip_similarity": 0.9688,
+          "image_ssim": 0.9438
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "03.27\n今天\n18.6\n近7天\n17\n近30天\n15.9",
+          "generated_tooltip": "03.27\n今天\n18.6\n近7天\n17\n近30天\n15.9",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.9448
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      }
+    },
+    {
+      "sample_id": "16387",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "周一\n5两公\n120\n5两母\n220\n3两公\n150\n3两母\n320",
+          "generated_tooltip": "周一\n5两公\n120\n5两母\n220\n3两公\n150\n3两母\n320",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8356
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "周二\n5两公\n132\n5两母\n182\n3两公\n232\n3两母\n332",
+          "generated_tooltip": "周二\n5两公\n133\n5两母\n182\n3两公\n232\n3两母\n332",
+          "tooltip_similarity": 0.9706,
+          "image_ssim": 0.8579
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "4\n5两公\n122\n5两母\n122\n3两公\n122\n3两母\n122",
+          "generated_tooltip": "4\n5两公\n122\n5两母\n122\n3两公\n122\n3两母\n122",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.857
+        },
+        {
+          "data_index": 18,
+          "reference_tooltip": "12\n5两公\n122\n5两母\n122\n3两公\n122\n3两母\n122",
+          "generated_tooltip": "12\n5两公\n122\n5两母\n122\n3两公\n122\n3两母\n122",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8572
+        },
+        {
+          "data_index": 19,
+          "reference_tooltip": "13\n5两公\n122\n5两母\n122\n3两公\n122\n3两母\n122",
+          "generated_tooltip": "13\n5两公\n122\n5两母\n122\n3两公\n122\n3两母\n122",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8572
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 4
+      }
+    },
+    {
+      "sample_id": "16548",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "德州\n城区数据\n2,012",
+          "generated_tooltip": "德州\n城区数据　2,012",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.5242
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "德城区\n城区数据\n1,230",
+          "generated_tooltip": "德城区\n城区数据　1,218",
+          "tooltip_similarity": 0.8571,
+          "image_ssim": 0.524
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "乐陵市\n城区数据\n1,654",
+          "generated_tooltip": "乐陵市\n城区数据　1,645",
+          "tooltip_similarity": 0.9286,
+          "image_ssim": 0.5247
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "平原县\n城区数据\n3,790",
+          "generated_tooltip": "平原县\n城区数据　3,786",
+          "tooltip_similarity": 0.8571,
+          "image_ssim": 0.5303
+        },
+        {
+          "data_index": 7,
+          "reference_tooltip": "夏津县\n城区数据\n2,349",
+          "generated_tooltip": "夏津县\n城区数据　2,341",
+          "tooltip_similarity": 0.9286,
+          "image_ssim": 0.5293
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 8,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 8,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "16775",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "1月\n吊销企业数\n421\n吊销企业环比率\n11",
+          "generated_tooltip": "1月\n吊销企业数: 420\n吊销企业环比率: 11%",
+          "tooltip_similarity": 0.898,
+          "image_ssim": 0.5623
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2月\n吊销企业数\n356\n吊销企业环比率\n4",
+          "generated_tooltip": "2月\n吊销企业数: 350\n吊销企业环比率: 4%",
+          "tooltip_similarity": 0.8936,
+          "image_ssim": 0.5668
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "7月\n吊销企业数\n620\n吊销企业环比率\n10",
+          "generated_tooltip": "7月\n吊销企业数: 620\n吊销企业环比率: 10%",
+          "tooltip_similarity": 0.9388,
+          "image_ssim": 0.5502
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "11月\n吊销企业数\n466\n吊销企业环比率\n5",
+          "generated_tooltip": "11月\n吊销企业数: 470\n吊销企业环比率: 5%",
+          "tooltip_similarity": 0.8571,
+          "image_ssim": 0.5444
+        },
+        {
+          "data_index": 11,
+          "reference_tooltip": "12月\n吊销企业数\n632\n吊销企业环比率\n4",
+          "generated_tooltip": "12月\n吊销企业数: 635\n吊销企业环比率: 4%",
+          "tooltip_similarity": 0.898,
+          "image_ssim": 0.5494
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 12,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "17212",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "2019-01-01\n计划A\n0.1\n组合1\n0.09\n组合2\n0.1\n组合3\n0.08\n组合4\n0.04",
+          "generated_tooltip": "2019-01-01\n计划A: 0.10\n组合1: 0.09\n组合2: 0.10\n组合3: 0.08\n组合4: 0.04",
+          "tooltip_similarity": 0.9381,
+          "image_ssim": 0.8919
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "2019-01-02\n计划A\n0.3\n组合1\n0.1\n组合2\n0.2\n组合3\n0.1\n组合4\n0.1",
+          "generated_tooltip": "2019-01-02\n计划A: 0.30\n组合1: 0.10\n组合2: 0.20\n组合3: 0.10\n组合4: 0.10",
+          "tooltip_similarity": 0.9091,
+          "image_ssim": 0.9129
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "2019-01-04\n计划A\n0.28\n组合1\n0.3\n组合2\n0.2\n组合3\n0.12\n组合4\n0.12",
+          "generated_tooltip": "2019-01-04\n计划A: 0.28\n组合1: 0.30\n组合2: 0.20\n组合3: 0.12\n组合4: 0.12",
+          "tooltip_similarity": 0.9381,
+          "image_ssim": 0.9136
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.9406
+        },
+        {
+          "data_index": 6,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.9041
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 7,
+        "usableSeriesIndex": 0,
+        "seriesCount": 5
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 5
+      }
+    },
+    {
+      "sample_id": "17576",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "事业部1\n项目数量\n30\n金额（百万）\n20",
+          "generated_tooltip": "事业部1\n项目数量：30\n金额（百万）：20",
+          "tooltip_similarity": 0.9091,
+          "image_ssim": 0.937
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "事业部2\n项目数量\n40\n金额（百万）\n20",
+          "generated_tooltip": "事业部2\n项目数量：40\n金额（百万）：20",
+          "tooltip_similarity": 0.9091,
+          "image_ssim": 0.9605
+        },
+        {
+          "data_index": 2,
+          "reference_tooltip": "事业部3\n项目数量\n30\n金额（百万）\n20",
+          "generated_tooltip": "事业部3\n项目数量：30\n金额（百万）：20",
+          "tooltip_similarity": 0.9091,
+          "image_ssim": 0.9612
+        },
+        {
+          "data_index": 3,
+          "reference_tooltip": "事业部4\n项目数量\n22\n金额（百万）\n20",
+          "generated_tooltip": "事业部4\n项目数量：22\n金额（百万）：20",
+          "tooltip_similarity": 0.9091,
+          "image_ssim": 0.9622
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "事业部5\n项目数量\n60\n金额（百万）\n10",
+          "generated_tooltip": "事业部5\n项目数量：60\n金额（百万）：10",
+          "tooltip_similarity": 0.9091,
+          "image_ssim": 0.9541
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 5,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    },
+    {
+      "sample_id": "17911",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "11.11\nWCG当日留存\n160\nWCG充值总量\n25.6\nWCG提币总量\n28.7\nWCG充值笔数\n3.3\nWCG提币数\n20.3",
+          "generated_tooltip": "11.11\nWCG当日留存\n160\nWCG充值总量\n25\nWCG提现总量\n28\nWCG充值笔数\n0.25\nWCG提现笔数\n20.2",
+          "tooltip_similarity": 0.8788,
+          "image_ssim": 0.7789
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "11.12\nWCG当日留存\n170\nWCG充值总量\n76.7\nWCG提币总量\n70.7\nWCG充值笔数\n4.5\nWCG提币数\n3.5",
+          "generated_tooltip": "11.12\nWCG当日留存\n170\nWCG充值总量\n77\nWCG提现总量\n70\nWCG充值笔数\n0.35\nWCG提现笔数\n3.4",
+          "tooltip_similarity": 0.8923,
+          "image_ssim": 0.8373
+        },
+        {
+          "data_index": 5,
+          "reference_tooltip": "11.16\nWCG当日留存\n170\nWCG充值总量\n20\nWCG提币总量\n18.8\nWCG充值笔数\n13.4\nWCG提币数\n3.4",
+          "generated_tooltip": "11.16\nWCG当日留存\n170\nWCG充值总量\n20\nWCG提现总量\n19\nWCG充值笔数\n1.2\nWCG提现笔数\n3.3",
+          "tooltip_similarity": 0.8906,
+          "image_ssim": 0.8284
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8696
+        },
+        {
+          "data_index": 9,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.8077
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 10,
+        "usableSeriesIndex": 3,
+        "seriesCount": 5
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 8,
+        "usableSeriesIndex": 0,
+        "seriesCount": 5
+      }
+    },
+    {
+      "sample_id": "1941",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "组合1/组合4/组合3：76.3",
+          "generated_tooltip": "组合1/组合4/组合3\n76.3",
+          "tooltip_similarity": 0.9375,
+          "image_ssim": 0.8608
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "组合4/组合2/组合3：72.1",
+          "generated_tooltip": "组合4/组合2/组合3\n72.1",
+          "tooltip_similarity": 0.9375,
+          "image_ssim": 0.8614
+        },
+        {
+          "data_index": 10,
+          "reference_tooltip": "组合3/组合5/组合3：80.1",
+          "generated_tooltip": "组合3/组合5/组合3\n80.1",
+          "tooltip_similarity": 0.9375,
+          "image_ssim": 0.8625
+        },
+        {
+          "data_index": 18,
+          "reference_tooltip": "组合1/组合5/组合3：89.3",
+          "generated_tooltip": "组合1/组合5/组合3\n89.3",
+          "tooltip_similarity": 0.9375,
+          "image_ssim": 0.8626
+        },
+        {
+          "data_index": 19,
+          "reference_tooltip": "组合2/组合5/组合3：67.2",
+          "generated_tooltip": "组合2/组合5/组合3\n67.2",
+          "tooltip_similarity": 0.9375,
+          "image_ssim": 0.8614
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 20,
+        "usableSeriesIndex": 0,
+        "seriesCount": 1
+      }
+    },
+    {
+      "sample_id": "2315",
+      "states": [
+        {
+          "data_index": 0,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7822
+        },
+        {
+          "data_index": 1,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7821
+        },
+        {
+          "data_index": 4,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7817
+        },
+        {
+          "data_index": 7,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7814
+        },
+        {
+          "data_index": 8,
+          "reference_tooltip": "",
+          "generated_tooltip": "",
+          "tooltip_similarity": 1.0,
+          "image_ssim": 0.7812
+        }
+      ],
+      "reference_meta": {
+        "ok": true,
+        "dataLen": 9,
+        "usableSeriesIndex": 0,
+        "seriesCount": 3
+      },
+      "generated_meta": {
+        "ok": true,
+        "dataLen": 9,
+        "usableSeriesIndex": 0,
+        "seriesCount": 2
+      }
+    }
+  ],
+  "threshold_summaries": {
+    "0.85": {
+      "threshold": 0.85,
+      "total_samples": 50,
+      "fail_at": {
+        "1": 0.52,
+        "2": 0.52,
+        "3": 0.54,
+        "5": 0.54
+      },
+      "delta_at": {
+        "1": null,
+        "2": 0.0,
+        "3": 0.02,
+        "5": 0.0
+      },
+      "first_two_both_fail_count": 26,
+      "first_two_both_pass_count": 24,
+      "later_all_fail_given_core_fail": 0.9615,
+      "later_all_pass_given_core_pass": 0.9583,
+      "samples": [
+        {
+          "sample_id": "10133",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10183",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10306",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10391",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10412",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10417",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10425",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10616",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10632",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10701",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10789",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10941",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10945",
+          "pass_flags": [
+            false,
+            false,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "sample_id": "11406",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11469",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11484",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11535",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11653",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11817",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11846",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11873",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11882",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11906",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11961",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11964",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10228",
+          "pass_flags": [
+            true,
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "sample_id": "10504",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "10891",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "11193",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "1228",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "12668",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "13109",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "13174",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "14023",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "1408",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "1429",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "14368",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "14402",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "14617",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "14681",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "15542",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "15580",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "16387",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "16548",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "16775",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "17212",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "17576",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "17911",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "1941",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "2315",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    "0.90": {
+      "threshold": 0.9,
+      "total_samples": 50,
+      "fail_at": {
+        "1": 0.7,
+        "2": 0.78,
+        "3": 0.78,
+        "5": 0.8
+      },
+      "delta_at": {
+        "1": null,
+        "2": 0.08,
+        "3": 0.0,
+        "5": 0.02
+      },
+      "first_two_both_fail_count": 35,
+      "first_two_both_pass_count": 11,
+      "later_all_fail_given_core_fail": 0.8571,
+      "later_all_pass_given_core_pass": 0.9091,
+      "samples": [
+        {
+          "sample_id": "10133",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10183",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10306",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10391",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10412",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10417",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10425",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10616",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10632",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10701",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10789",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10941",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10945",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11406",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11469",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11484",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11535",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11653",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11817",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11846",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11873",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11882",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11906",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11961",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "11964",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10228",
+          "pass_flags": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "10504",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "10891",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "11193",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "1228",
+          "pass_flags": [
+            true,
+            false,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "12668",
+          "pass_flags": [
+            true,
+            false,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "13109",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "13174",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "sample_id": "14023",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "1408",
+          "pass_flags": [
+            false,
+            false,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "1429",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "sample_id": "14368",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "14402",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "14617",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "14681",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "15542",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "15580",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "16387",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "16548",
+          "pass_flags": [
+            true,
+            false,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "sample_id": "16775",
+          "pass_flags": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "sample_id": "17212",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "17576",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "17911",
+          "pass_flags": [
+            false,
+            false,
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "1941",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "sample_id": "2315",
+          "pass_flags": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    }
+  }
+}
