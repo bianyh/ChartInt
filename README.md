@@ -9,7 +9,6 @@ This repository contains the official implementation code and evaluation scripts
 ## 🚀 News
 
 * **[2026-02]** Code and dataset released.
-* **[2026-02]** Paper is under submission.
 
 ## 📂 Dataset
 
