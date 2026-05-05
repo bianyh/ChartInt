@@ -15,6 +15,7 @@ This repository contains the official implementation code and evaluation scripts
 The ChartInt dataset comprises **2,779** carefully annotated examples, covering diverse interaction patterns and realistic editing scenarios.
 
 * **Download Link**: [Google Drive](https://drive.google.com/file/d/1Qg1jRuq5s8YNVazsZgWZ9c5LBjGQhWpY/view?usp=drive_link)
+* **Huggingface**：[ChartInt](https://huggingface.co/datasets/xilinghuiye/ChartInt)
 
 
 ## 💡 Key Features
